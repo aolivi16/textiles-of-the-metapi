@@ -13,6 +13,6 @@ I am interested in weaving, and the history of textile production across the wor
 ## Further Uses
 The python notebook attached to this project can be used by anyone to make calls on the MET API. Even in the textile category further refinement can be done  y changing one or more aspects of the query. The raw textile data could also be expanded upon, since I focused on pieces in the collection that were a majority textile like clothing and towels, and not items which have textiles in them like gun cases. The work could also be expanded to textile production itself, and it would be possible to pull textile information as well as information on tools like distaffs, drop spindles, or looms. 
 ## Files
--jupyter notebook
+-jupyter notebooks
+-textile.csv
 -cleaned_textile.csv
--powerpoint presentation
